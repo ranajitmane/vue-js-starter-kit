@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1516782985227" clover="3.2.0">
+  <project timestamp="1516782985228" name="All files">
+    <metrics statements="15" coveredstatements="0" conditionals="14" coveredconditionals="0" methods="6" coveredmethods="0" elements="35" coveredelements="0" complexity="0" loc="15" ncloc="15" packages="2" files="2" classes="2">
+      <package name="src">
+        <metrics statements="7" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <file name="App.vue" path="F:\projects\vue.js\vueapp01\src\App.vue">
+          <metrics statements="7" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="2" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="14" count="0" type="stmt"/>
+          <line num="18" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="19" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="20" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="21" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.components">
+        <metrics statements="8" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <file name="JuryPage.vue" path="F:\projects\vue.js\vueapp01\src\components\JuryPage.vue">
+          <metrics statements="8" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="4" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="121" count="0" type="stmt"/>
+          <line num="124" count="0" type="stmt"/>
+          <line num="130" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="131" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="132" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="133" count="0" type="cond" truecount="0" falsecount="2"/>
+        </file>
+      </package>
+    </metrics>
+  </project>
+</coverage>
